@@ -1,7 +1,10 @@
 body{
     font-family: Barlow Condensed;
     text-align: center;
-    background-color: #e63946;
+    background-color: #1d3557;
     font-weight: bolder;
     font-style: italic;
+}
+p{
+    color: #e63946;
 }
